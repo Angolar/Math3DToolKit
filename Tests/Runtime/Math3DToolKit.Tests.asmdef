@@ -1,14 +1,10 @@
 {
-    "name": "com.angolar.unity.math3DToolKit.Editor.Tests",
+    "name": "Math3DToolKit.Tests",
     "references": [
         "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner",
-        "com.angolar.unity.math3DToolKit.Runtime",
-        "com.angolar.unity.math3DToolKit.Editor"
+        "Math3DToolKit.Runtime"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": true,
@@ -16,7 +12,9 @@
         "nunit.framework.dll"
     ],
     "autoReferenced": false,
-    "defineConstraints": [],
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
     "versionDefines": [],
     "noEngineReferences": false
 }

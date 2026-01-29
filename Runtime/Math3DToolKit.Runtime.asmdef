@@ -1,0 +1,21 @@
+{
+    "name": "Math3DToolKit.Runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor",
+        "Android",
+        "iOS",
+        "WebGL",
+        "Windows",
+        "Linux",
+        "macOS"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
