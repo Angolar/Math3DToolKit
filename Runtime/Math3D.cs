@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using System;
 
-namespace com.angolar.unity.math3DToolKit
+namespace Math3DToolKit
 {
     public class Math3d
     {

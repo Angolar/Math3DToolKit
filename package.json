@@ -5,7 +5,7 @@
         "name": "Angolar",
         "url": "https://github.com/Angolar/Math3DToolKit.git"
     },
-    "version": "1.0.1",
+    "version": "1.0.3",
     "unity": "2019.3",
     "description": "一个用于Unity的3D数学工具包",
     "dependencies": {}
