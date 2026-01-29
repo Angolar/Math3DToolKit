@@ -1,0 +1,12 @@
+{
+    "name": "com.angolar.unity.math3dtoolkit",
+    "displayName": "3D Math ToolKit",
+    "author": {
+        "name": "Angolar",
+        "url": "https://github.com/Angolar/Math3DToolKit.git"
+    },
+    "version": "1.0.0",
+    "unity": "2019.3",
+    "description": "一个用于Unity的3D数学工具包",
+    "dependencies": {}
+}
